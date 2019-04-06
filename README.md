@@ -9,6 +9,6 @@
 [Chap (played by Mittens)](chap.md)  
 [Dildo Baggins (played by Jwill)](dildo.md)  
 [Homer (played by Darren)](homer.md)  
+[Juvenal (played by Cactus)](juvenal.md)  
 [MacTear (played by Tier)](mactear.md)  
 [Ondee Awtherham (played by Sock)](ondee.md)  
-
